@@ -1,17 +1,24 @@
 Examen DesafioLATAM
-
+<br>
 En la NavBar esta el Link al Portfolio
-
-Página
+<br>
+Página:
+<br>
 https://diazlilloariel.github.io/
-
-Repositorio
+<br>
+Repositorio:
+<br>
 https://github.com/diazlilloariel/diazlilloariel.github.io
-
-Forks
+<br>
+Forks:
+<br>
 01 https://github.com/diazlilloariel/pruevacv
+<br>
 02 https://github.com/diazlilloariel/Aquilesswilson.github.io
+<br>
 
-Fuente Forks
+Fuente Forks:
+<br>
 01 https://github.com/FranaGiaco/pruevacv
+<br>
 02 https://github.com/Aquilesswilson/Aquilesswilson.github.io
